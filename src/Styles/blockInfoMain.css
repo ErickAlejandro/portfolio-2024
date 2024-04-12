@@ -1,0 +1,32 @@
+.img-profile{
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+p#aboutMeMessage{
+    background-color: var(--secondary-color);
+    border-radius: 5px;
+    padding: 5px;
+    width: 15%;
+}
+
+#splineMain{
+    width: 20px;
+    height: 20px;
+}
+
+button#btnContactWithMe{
+    margin-left: 10px;
+}
+
+div#rowButtons{
+    margin-top: 20px;
+}
+
+h1, h4{
+    color: var(--texts-pagraf);
+}
